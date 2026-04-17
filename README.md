@@ -90,7 +90,7 @@ Client devices are emulated with Linux network namespaces on Ubuntu, so you can 
 
 ## Notes About Wi-Fi
 
-Physical dual-band radios are not available in this VM lab. For demos, the segmented networks still exist as if they were separate SSIDs:
+Physical dual-band radios are not available in this VM lab. The segmented networks still exist as if they were separate SSIDs:
 
 - `Trusted-5G` -> VLAN 10
 - `IoT-2G` -> VLAN 20

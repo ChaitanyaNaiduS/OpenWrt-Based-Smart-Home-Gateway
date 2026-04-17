@@ -1,0 +1,7 @@
+build/
+vm-share/
+*.qcow2
+*.img
+*.img.gz
+*.pyc
+__pycache__/

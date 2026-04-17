@@ -96,10 +96,3 @@ Physical dual-band radios are not available in this VM lab. For demos, the segme
 - `IoT-2G` -> VLAN 20
 - `Guest-Portal` -> VLAN 30
 
-If you later move to real OpenWrt hardware, you can bind those SSIDs to the same interfaces and firewall zones already defined here.
-
-## Deliverable Angle
-
-If this is for a resume, portfolio, or coursework, you can honestly present it as:
-
-`Designed and deployed a virtualized OpenWrt smart home gateway lab on Ubuntu, implementing VLAN-based network isolation, captive portal access control, HTB QoS policies, and custom Bash/Python telemetry for DHCP, firewall, and latency monitoring.`
